@@ -1,0 +1,10 @@
+-- Module Declaration --
+module Main;
+
+-- importing Modules --
+import StandartIO;
+
+-- main function --
+func main<argc, argv> {
+    put "hello, world";
+}
