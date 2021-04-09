@@ -7,8 +7,8 @@
 ```
 ## Multiline:
 ```haskell
-{-
+-{-
     comment
     content
--}
+-}-
 ```
