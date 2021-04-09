@@ -1,5 +1,5 @@
 # Comments
-> Synax for commenting the source code
+> Synax for commenting source code
 
 ## Single Line:
 ```haskell
