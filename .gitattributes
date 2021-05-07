@@ -1,0 +1,2 @@
+# Linguist overrides for markdown files
+*.md linguist-detectable=true
