@@ -8,12 +8,21 @@
 
 ## Standard Language features
 - [ ] mathematical expressions
+- [ ] functions
 - [ ] if statements
 - [ ] elsif statements
 - [ ] else statments
 - [ ] switch statements
 - [ ] for statements
 - [ ] while statements
+- [ ] type: integer
+- [ ] type: floating point number
+- [ ] type: character
+- [ ] type: string
+- [ ] type: boolean
+- [ ] type: enum
+- [ ] data structure: array
+
 
 ## Paradigm Language features
 ### OOP
@@ -40,6 +49,9 @@
 - [ ] js like object type
 - [ ] vectors
 - [ ] anonymous functions
+- [ ] pointers
+- [ ] custom types
+- [ ] preprocessor with macro system
 
 ## Standard Library
 - [ ] Standart IO
