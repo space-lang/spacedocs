@@ -6,6 +6,15 @@
 - [ ] type checker
 - [ ] ir generator
 
+## Standard Language features
+- [ ] mathematical expressions
+- [ ] if statements
+- [ ] elsif statements
+- [ ] else statments
+- [ ] switch statements
+- [ ] for statements
+- [ ] while statements
+
 ## Paradigm Language features
 ### OOP
 - [ ] classes
@@ -29,6 +38,7 @@
 - [ ] bitwise operators
 - [ ] if expressions
 - [ ] js like object type
+- [ ] vectors
 - [ ] anonymous functions
 
 ## Standard Library
@@ -36,5 +46,8 @@
 - [ ] File IO
 - [ ] Command line interface building
 - [ ] Network IO
+- [ ] Concurrency
+- [ ] Mutex locks
 
 ## Selfhosted Compiler
+- [ ] fully featured compiler written in space itself
