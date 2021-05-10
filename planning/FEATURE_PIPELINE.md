@@ -63,3 +63,6 @@
 
 ## Selfhosted Compiler
 - [ ] fully featured compiler written in space itself
+
+## Advanced Compiler features
+- [ ] nasm & haskell interop/ffi
