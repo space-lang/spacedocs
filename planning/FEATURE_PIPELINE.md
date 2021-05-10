@@ -14,7 +14,7 @@
 - [ ] js like object type
 - [ ] anonymous functions
 
-## Standart Library
+## Standard Library
 - [ ] Standart IO
 - [ ] File IO
 - [ ] CLI functions
