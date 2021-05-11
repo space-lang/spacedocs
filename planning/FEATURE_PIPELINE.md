@@ -1,6 +1,7 @@
 # Feature pipeline
 
 ## OCaml Compiler
+- [ ] lexer
 - [ ] parser
 - [ ] cli - isolated
 - [ ] ast
