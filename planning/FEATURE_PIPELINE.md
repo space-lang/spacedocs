@@ -2,9 +2,11 @@
 
 ## OCaml Compiler
 - [ ] parser
+- [ ] cli - isolated
 - [ ] ast
 - [ ] type checker
 - [ ] ir generator
+- [ ] cli - integrated
 
 ## Standard Language features
 - [ ] mathematical expressions
@@ -66,3 +68,10 @@
 
 ## Advanced Compiler features
 - [ ] nasm & haskell interop/ffi
+
+## Package / Library Manager
+- [ ] cli
+- [ ] package hub
+
+## Build system
+- [ ] either a full build system in space itself integration in meson
