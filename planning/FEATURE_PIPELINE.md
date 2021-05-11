@@ -8,6 +8,9 @@
 - [ ] ir generator
 - [ ] cli - integrated
 
+## Tests
+- [ ] function testing with a lib from the Jane Street Capital
+
 ## Standard Language features
 - [ ] mathematical expressions
 - [ ] functions
