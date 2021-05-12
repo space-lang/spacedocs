@@ -1,10 +1,10 @@
--- Module Declaration --
+-- Module Declaration
 module Main;
 
--- importing Modules --
+-- importing Modules
 import StandardIO;
 
--- main function --
+-- main function
 fun main<argc, argv> {
     put "hello, world";
 }
