@@ -5,6 +5,6 @@ module Main;
 import StandardIO;
 
 -- main function --
-func main<argc, argv> {
+fun main<argc, argv> {
     put "hello, world";
 }
