@@ -2,7 +2,7 @@
 module Main;
 
 -- importing Modules --
-import StandartIO;
+import StandardIO;
 
 -- main function --
 func main<argc, argv> {
