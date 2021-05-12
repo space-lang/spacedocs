@@ -60,7 +60,7 @@
 - [ ] preprocessor with macro system
 
 ## Standard Library
-- [ ] Standart IO
+- [ ] Standard IO
 - [ ] File IO
 - [ ] Command line interface building
 - [ ] Network IO
