@@ -1,7 +1,7 @@
 # spacedocs
 > Syntax &amp; design files for space
 
-## Future of project
+## Future of space
 All the feature planning can be found [here](planning/FEATURE_PIPELINE.md).
 
 ## Directories explained
