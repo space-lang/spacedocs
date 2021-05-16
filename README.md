@@ -4,20 +4,13 @@
 ## Future of project
 All the feature planning can be found [here](planning/FEATURE_PIPELINE.md).
 
-## File Structure
-```
+## Directories explained
+(files hidden)
+```sh
 .
-├── README.md
-├── compiler-specific
-│   └── FILE_EXTENSIONS.md
-├── examples
-│   └── helloworld.space
-├── planning
-│   └── FEATURE_PIPELINE.md
-├── standard-library
-└── syntax
-    ├── COMMENTS.md
-    └── FUNCTIONS.md
-
-5 directories, 6 files
+├── compiler-specific       # Contains everything related to the OCaml Compiler & OCaml
+├── examples                # Conatins examples written in the space programming language
+├── planning                # Contains feature planning of the entire project
+├── standard-library        # Contains documentation for the space standard library
+└── syntax                  # Conatins documentation for the syntax of the space programming language
 ```
