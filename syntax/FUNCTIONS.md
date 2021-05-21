@@ -3,14 +3,14 @@
 
 # Void Function
 ```
-fn print_sum(num1, num2) {
+fun print_sum<int num1, int num2> {
     put(num1 + num2);
 }
 ```
 
 # Function with return
 ```
-fn sum(num1, num2) -> sum {
-    sum = num1 + num2;
+fun sum<int num1, int num2> -> int {
+    ret num1 + num2;
 }
 ```
