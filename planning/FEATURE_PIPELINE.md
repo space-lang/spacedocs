@@ -78,4 +78,4 @@
 - [ ] package hub
 
 ## Build system
-- [ ] either a full build system in space itself integration in meson
+- [ ] either a full build system in space itself or integration in meson
